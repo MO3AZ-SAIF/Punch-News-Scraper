@@ -1,5 +1,6 @@
 import pandas as pd
 import requests as req
+import lxml
 from bs4 import BeautifulSoup as bs
 
 # Define parameters
