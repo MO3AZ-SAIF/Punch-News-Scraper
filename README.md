@@ -63,11 +63,4 @@ The resulting CSV file includes the following columns:
 - `image`: The URL of the article's image (if available).
 - `link`: The article's URL.
 
-## Running the Script
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/punch-news-scraper.git
-   ```
-
+## Thanks ❤
